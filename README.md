@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vitor Honorato
  
-🚀 **Junior Programador | JavaScript & .NET Specialist,Angular**  
+🚀 **Programador Junior | JavaScript & .NET,Angular**  
 🇧🇷 Brazil
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
